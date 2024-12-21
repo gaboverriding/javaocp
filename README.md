@@ -1,2 +1,2 @@
 # javaocp
-Ejercicios para la certificacion 1z0-809
+Ejercicios para la certificación de Java OCP
